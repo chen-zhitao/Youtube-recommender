@@ -2,3 +2,6 @@ TODO.txt
 /data/channels.csv
 /data/preprocessed_data.csv
 /data/preprocessed_data_v2.csv
+/data/tfidf_features.csv
+/data/tfidf_pca_features.csv
+/notebooks/.ipynb_checkpoints
